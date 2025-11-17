@@ -13,9 +13,10 @@ I'm a Cloud and Platform Engineer passionate about building scalable and efficie
 ## Projects
 
 
-### [azure-command-tower](https://github.com/rafaelherik/azure-command-tower)
+### [azure-control-tower](https://github.com/rafaelherik/azure-control-tower)
 
-🚧 **Coming Soon** - An upcoming project aimed at providing a centralized command interface for managing Azure resources efficiently, enhancing operational control and automation capabilities.
+Azure Control Tower (azct) is a terminal-based UI for exploring and managing Azure resources. Navigate your Azure subscriptions, resource groups, and resources with an intuitive TUI interface. This project was inspired by [K9s](https://k9scli.io/). I'm not using directly K9S code here, but got inspired by it's implementation, libraries and behaviors. This project is in early stage and I am continouosly working on it to improve and add more capabilities. I'm using it on my professional daily activities. 
+
 
 ### [tfsumpy](https://github.com/rafaelherik/tfsumpy)
 
