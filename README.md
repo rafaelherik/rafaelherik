@@ -24,15 +24,6 @@ My work sits at the intersection of Kubernetes, infrastructure as code, GitOps, 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Certification-Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![GitHub Administration](https://img.shields.io/badge/GitHub_Certification-Administration-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Core Capabilities
-
-![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-Internal_Developer_Platforms-181717?style=for-the-badge)
-![Cloud Native](https://img.shields.io/badge/Cloud_Native-Kubernetes_and_GitOps-326CE5?style=for-the-badge)
-![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-Governance_and_Foundations-0078D4?style=for-the-badge)
-![Infrastructure Automation](https://img.shields.io/badge/Infrastructure_Automation-IaC_and_Control_Planes-7B42BC?style=for-the-badge)
-![Developer Experience](https://img.shields.io/badge/Developer_Experience-Golden_Paths_and_CI%2FCD-2088FF?style=for-the-badge)
-![AI Assisted Engineering](https://img.shields.io/badge/AI_Assisted_Engineering-Copilot_Codex_Claude-000000?style=for-the-badge)
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelh-carvalho)
