@@ -1,47 +1,41 @@
-# Hi there, I'm Rafael! 👋
+# Hi, I'm Rafael
 
-## About Me
+I'm a Platform Engineer focused on building reliable internal developer platforms, paved roads, and automation practices that help teams ship with confidence.
 
-I'm a Cloud and Platform Engineer passionate about building scalable and efficient cloud solutions. With a strong focus on Microsoft Azure and infrastructure automation, I specialize in creating tools that enhance developer productivity and streamline operations. My work primarily revolves around Terraform, Python, and cloud governance, aiming to deliver efficient and maintainable infrastructure-as-code solutions.
+My work sits at the intersection of Kubernetes, infrastructure as code, GitOps, cloud governance, and AI-assisted engineering. I spend a lot of time turning complex infrastructure into clear, repeatable platform capabilities with Terraform, Crossplane, GitHub Actions, Copilot, Codex, Claude Code, and modern platform engineering patterns.
 
-## Connect with Me
+## What I Work On
+
+- Internal developer platforms and golden paths for engineering teams
+- Kubernetes platform engineering, governance, and day-2 operations
+- Control planes and infrastructure APIs with Crossplane
+- Infrastructure as Code with Terraform
+- GitOps delivery models for infrastructure and application platforms
+- CI/CD automation, reusable workflows, and platform enablement with GitHub Actions
+- AI-assisted engineering workflows with GitHub Copilot, Codex, and Claude Code
+- Cloud foundations, guardrails, naming standards, and operational consistency
+
+## Certifications
+
+![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/Certified_Kubernetes_Administrator-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![HashiCorp Certified: Terraform Associate (004)](https://img.shields.io/badge/HashiCorp_Certified-Terraform_Associate_004-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Microsoft Certified: Azure Solutions Architect Expert](https://img.shields.io/badge/Microsoft_Certified-Azure_Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Certification-Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Certification-Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![GitHub Administration](https://img.shields.io/badge/GitHub_Certification-Administration-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Core Capabilities
+
+![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-Internal_Developer_Platforms-181717?style=for-the-badge)
+![Cloud Native](https://img.shields.io/badge/Cloud_Native-Kubernetes_and_GitOps-326CE5?style=for-the-badge)
+![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-Governance_and_Foundations-0078D4?style=for-the-badge)
+![Infrastructure Automation](https://img.shields.io/badge/Infrastructure_Automation-IaC_and_Control_Planes-7B42BC?style=for-the-badge)
+![Developer Experience](https://img.shields.io/badge/Developer_Experience-Golden_Paths_and_CI%2FCD-2088FF?style=for-the-badge)
+![AI Assisted Engineering](https://img.shields.io/badge/AI_Assisted_Engineering-Copilot_Codex_Claude-000000?style=for-the-badge)
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelh-carvalho)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafaelherik)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rafaelherik)
+[![Blog](https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=readme&logoColor=white)](https://blog.rafaeldecarvalho.com)
 
-## Projects
-
-
-### [azure-control-tower](https://github.com/rafaelherik/azure-control-tower)
-
-Azure Control Tower (azct) is a terminal-based UI for exploring and managing Azure resources. Navigate your Azure subscriptions, resource groups, and resources with an intuitive TUI interface. This project was inspired by [K9s](https://k9scli.io/). I'm not using directly K9S code here, but got inspired by it's implementation, libraries and behaviors. This project is in early stage and I am continouosly working on it to improve and add more capabilities. I'm using it on my professional daily activities. 
-
-
-### [tfsumpy](https://github.com/rafaelherik/tfsumpy)
-
-A Python library designed to simplify Terraform state file manipulation, making it easier to manage and automate infrastructure as code workflows.
-
-### [terraform-provider-aznamingtool](https://github.com/rafaelherik/terraform-provider-aznamingtool)
-
-A custom Terraform provider that integrates with Azure Naming Tool, enabling consistent and automated naming conventions for Azure resources. This provider is published on the [Terraform Registry](https://registry.terraform.io/providers/rafaelherik/aznamingtool/) and helps organizations maintain cloud governance best practices.
-
-**Key Features:**
-- Declarative API integration with Azure Naming Tool
-- Automated resource naming following Microsoft's best practices
-- Queue system to handle concurrency issues
-
-
-
-
-## Tech Stack
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
----
-
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss cloud infrastructure, automation, or any of my projects!
-
+I use this profile to share how I think about platform engineering, infrastructure automation, AI-assisted engineering, and the practical craft of building systems that teams can trust.
